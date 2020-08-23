@@ -1,4 +1,4 @@
-/*"use strict";
+"use strict";
 const elements = ["Mango", "Poly", "Ajax", "Lux", "Jay", "Kong"];
 let string = "";
 for (const element of elements) {
@@ -7,14 +7,14 @@ for (const element of elements) {
 string = string.slice(0, string.length - 1);
 console.log(string);*/
 
-/*const getItemsString = function (['Mango', 'Poly', 'Ajax', 'Lux', 'Jay', 'Kong']) {
+const getItemsString = function (['Mango', 'Poly', 'Ajax', 'Lux', 'Jay', 'Kong']) {
   'use strict';
   let getItemsString = '';
   for (i = 0; i <= getItemsString.length - 1; i += 1) { };
 
 };
 
-console.log(getItemsString());*/
+console.log(getItemsString());
 /*
 '1 - Mango
 2 - Poly
